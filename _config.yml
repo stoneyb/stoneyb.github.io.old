@@ -13,18 +13,16 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://stoneyb.github.io/
 baseurl: /
-title: Chris Turner
-author: Chris Turner
+title: Tom Stoneberg
+author: Tom Stoneberg
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+email: tstoneb@gmail.com
+github: stoneyb
+twitter: tstoneb
 #Comment out if you don't want disqus 
-disqus: username
-google_analytics: UA-69391421-1
+#disqus: username
+google_analytics: UA-71946444-1 
 
 
 # needed for travis-ci build
